@@ -1,0 +1,10 @@
+# Go 忽略文件
+/bin
+/vendor
+/.idea
+*.exe
+*.dll
+*.so
+*.dSYM
+/coverage
+*.out
